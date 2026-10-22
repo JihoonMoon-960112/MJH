@@ -33,7 +33,15 @@ Run these in order. Steps 1–3 are research; do not start writing until they ar
 
 ### 1. Build the candidate profile
 
-Read the user's CV in full before anything else. Get the authorship positions **exactly
+**Find the candidate's own materials first.** In a local session, locate their CV,
+manuscripts, drafts, figures, rebuttals and past cover letters on disk rather than asking
+them to re-describe work they have already written. A response-to-reviewers document, if
+one exists, is worth more than the paper: it is the expected-questions section already
+written under adversarial pressure. Scope, version resolution and what to search for:
+`references/06-local-materials.md`. In a cloud session the filesystem is not visible —
+say so and ask for uploads.
+
+Then read the CV in full before anything else. Get the authorship positions **exactly
 right** — sole first, co-first (marked `*`), and middle author are three different things
 and conflating them is a credibility-destroying error in a document the PI will read
 alongside the CV. Publication status (published / in press / under review / preprint) must
@@ -52,8 +60,15 @@ Then read them. **Main text, figure legends, extended data, methods.** An abstra
 you the claim; only the legends tell you the n, the model, the timepoint, and the caveat —
 and the caveat is where the interview happens.
 
-Acquisition playbook, rate-limit handling, PDF and video extraction:
-`references/01-sourcing.md`.
+**Search independently for talks and news**, do not wait to be given links. A recent
+seminar is often more current than any preprint, and an abstract for a talk not yet given
+states claims the papers do not support — that delta is unpublished work. Check NIH
+RePORTER for funded-but-unpublished aims, and check for lab moves, new grants, company
+founding and any corrections. Mine the Q&A separately from the talk body: it is where a
+PI says what they would never write.
+
+Acquisition playbook, talk and news discovery, rate-limit handling, PDF and caption
+extraction: `references/01-sourcing.md`.
 
 ### 3. Derive the gap map
 

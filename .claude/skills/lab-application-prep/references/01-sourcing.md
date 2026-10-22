@@ -47,13 +47,56 @@ pdftotext -layout input.pdf output.txt
 ```
 `-layout` matters: without it, multi-column figure legends interleave into nonsense.
 
-**Talks** — captions via `yt-dlp`:
+## Talks and news — finding them, not just downloading them
+
+A recent talk is often the single most current statement of a lab's direction, more
+current than any preprint. Look for them deliberately; they do not surface from a paper
+search.
+
+**Where to search**
+
+- **YouTube** — search the PI's name alone, and the name plus their central concept.
+  Then check the institutional channels directly, because many talks are never titled
+  with the PI's name: the host institute, the cancer centre, CSHL/Keystone/Gordon
+  meeting channels, society channels (AACR, AACR/ASCO, EMBO), and seminar series
+  channels at other universities that invited them. A PI gives roughly the same talk at
+  four places in a year; any one recording will do.
+- **iBiology, Cell/Nature video abstracts, journal podcasts** — short but tightly edited,
+  so the framing is the PI's most considered version.
+- **Institutional seminar listings and upcoming-talk abstracts.** An abstract for a talk
+  they have not yet given is the highest-value document you can find: it states claims
+  the published record does not yet support. Compare it line by line against the papers —
+  the delta is unpublished work.
+- **Recorded conference sessions** behind a society login are usually unreachable. Note
+  and move on.
+
+**News about the PI** — check for these; they change what the interview is about:
+
+- New faculty hires, lab moves, or a new joint appointment
+- Recently awarded grants (NIH RePORTER is searchable by PI name and gives the
+  *abstract and specific aims* of funded but unpublished work — one of the best
+  sources for "what are they about to do")
+- Awards, named chairs, editorial roles
+- Company founding, SAB membership, licensing — tells you which findings they believe
+  are translatable
+- Recent retractions or corrections anywhere in the lab's output. Rare, but you must not
+  walk into an interview unaware of one.
+
+**Extracting a talk** — captions via `yt-dlp`:
 ```
 yt-dlp --write-auto-sub --sub-lang en --skip-download --convert-subs srt "URL"
 ```
 Then strip timestamps and dedupe. Auto-captions mangle gene names badly
 (`Slc4a11` → "slick for eleven") — read around them, and never quote a gene name from
 a caption as if it were verified.
+
+**Mine the Q&A.** The question period is where a PI says what they would never write:
+what did not work, what they are unsure of, what a competitor has wrong. Extract the
+questions and answers separately from the talk body and read them as their own document.
+Note the timestamp of anything you plan to use.
+
+If the user supplies a video link, use it — but still search independently. They will
+have found the obvious one.
 
 ## Handling what you cannot get
 

@@ -41,6 +41,7 @@ container. For cloud sessions, keeping the skill in the repo is the durable rout
 | `references/03-brief-structure.md` | Brief section order, source grading, layout constraints |
 | `references/04-correspondence.md` | Register, time zones, missed meetings, the recommendation-letter conversation |
 | `references/05-candidate-profile.md` | Authorship accuracy, competence vs. tools, the background statement |
+| `references/06-local-materials.md` | Finding the candidate's CV, manuscripts, rebuttals and drafts on their own machine |
 
 ## The rule
 
