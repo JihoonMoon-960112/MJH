@@ -93,6 +93,9 @@ Publish an HTML artifact. Structure, section order, source-grading scheme and la
 constraints: `references/03-brief-structure.md`.
 
 Non-negotiables:
+- **Bilingual by function, not by section.** What the candidate *reads* goes in their own
+  language; what they will *say or send* goes in English, verbatim-ready, with no
+  translation beneath it. Full rule in the reference.
 - Every factual claim carries a **source grade**: full-text verified / abstract only /
   my inference. Three visually distinct levels.
 - Questions the candidate will actually ask out loud get a figure-level citation —
@@ -103,6 +106,10 @@ Non-negotiables:
   scrolls for three screens is unusable at 6am.
 
 ### 5. Write the correspondence and the letter
+
+Correspondence and the letter are **English only** — they are sent, not read. Any
+commentary you attach about them (why a line is phrased that way, what to cut) goes in the
+candidate's own language, clearly separated from the text they will send.
 
 Register rules, time-zone notation, the no-flattery rule, apology and reschedule handling,
 and the recommendation-letter conversation: `references/04-correspondence.md`.

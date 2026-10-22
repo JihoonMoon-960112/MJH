@@ -38,7 +38,7 @@ container. For cloud sessions, keeping the skill in the repo is the durable rout
 | `SKILL.md` | The workflow, and the one rule that overrides everything |
 | `references/01-sourcing.md` | Getting full text — Europe PMC, BioC, preprint rate limits, PDFs, talk captions |
 | `references/02-gap-analysis.md` | Wants / Cannot / Unproven / Fit, and the textual tells for each |
-| `references/03-brief-structure.md` | Brief section order, source grading, layout constraints |
+| `references/03-brief-structure.md` | Brief section order, the read-in-Korean / say-in-English split, source grading, layout |
 | `references/04-correspondence.md` | Register, time zones, missed meetings, the recommendation-letter conversation |
 | `references/05-candidate-profile.md` | Authorship accuracy, competence vs. tools, the background statement |
 | `references/06-local-materials.md` | Finding the candidate's CV, manuscripts, rebuttals and drafts on their own machine |

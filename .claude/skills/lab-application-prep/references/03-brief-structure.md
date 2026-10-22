@@ -24,6 +24,34 @@ Priority order, not narrative order. The things needed soonest go first.
 | 08 | **Shared ground** | Overlap between the candidate's current lab and the target |
 | 09 | **Talks** | What the PI said recently, with dates |
 
+## Two languages, one rule
+
+The brief is bilingual, and the split is **not** by section — it is by **what the
+candidate does with the sentence**.
+
+| | Language | Why |
+|---|---|---|
+| Anything they **read** — analysis, context, reasoning, source grades, the gap map, your warnings, scheme labels in prose, the tonight checklist | **The candidate's own language** (Korean by default here) | Read at speed, under stress, at 6am. Comprehension per second is what matters, and that is highest in their first language |
+| Anything they will **say or send** — opening script, the questions they will ask, answers to expected questions, email and letter text, phrasings to have ready | **English, verbatim-ready** | It must be usable as-is, with no translation step |
+
+**Do not provide a translation of the spoken parts.** A Korean gloss under an English
+question invites the candidate to think in Korean and translate live, which is slower and
+produces stilted phrasing under pressure. Give the English only. If a phrase is genuinely
+hard, explain the *difficulty* in Korean next to it — nuance, register, what it implies —
+but leave the line itself English and alone.
+
+**Explanation about an English line stays in the candidate's language.** "Say this
+plainly, don't soften it" is reading material. The line it refers to is speaking material.
+Keep them visually distinct — different weight, a left rule, or a label — so the eye never
+has to ask "am I reading this or saying this?"
+
+**Technical terms stay English inside Korean prose.** Write `HPCS가 quiescent하다`, not a
+translated coinage. The candidate will say the English term in the call, and inventing a
+native-language equivalent in the brief creates a word they must then translate back.
+
+If the user asks for a section to be converted, convert it fully — a half-translated
+question sheet is worse than either language alone.
+
 ## Source grading — mandatory
 
 Every factual claim is marked at one of three levels, visually distinct:
